@@ -1,0 +1,27 @@
+#include <stdio.h>
+int main()
+{
+
+    int count=0,num=0;
+
+   
+    {
+        printf("%d \n",num);
+        ++num;
+        ++count;
+    }*/
+
+
+    {
+        printf("%d \n",num);
+        ++num;
+        ++count;
+    }while(count<=100);*/
+
+
+   
+        printf("%d \n",num);
+        ++num;*/
+    }
+
+}
